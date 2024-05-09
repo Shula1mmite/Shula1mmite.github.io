@@ -1,15 +1,27 @@
-# Welcome to Jekyll!
+# Welcome to shula1mmite
+---
+layout: post
+title: how i started out as a python developer
+subtitle: summary
+categories: Python
+tags: [website.github.python developer]
+---
+
+## How i started out as a python developer
+1.I Completed a prep course
+2.I Learnt the basics of Python
+3.I Chose a learning path That Suits me
+4.I explored python frameworks
+5.I honed the essential skills
+6.I built a portfolio
+7.I created a GitHub Profile
+8.I found a mentor in the field to learn about their experiences.
+
+ Website: shula1mmite.github.io
 #
-# About Theme
-#
-# Yet another theme for elegant writers with modern flat style and beautiful
-# night/dark mode.
-#
-# Website: https://github.com/jeffreytse/jekyll-theme-yat
-#
-# You can do anything you want, including projects for your clients, as long
-# as you mention an attribution back (credit links in footer or project).
-# See the LICENCE file.
+# 
+# 
+# 
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that.
